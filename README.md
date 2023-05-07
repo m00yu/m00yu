@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m an undergraduate student interested in Computer Vision 💻 and neuroscience🧠.  
+I’m an undergraduate student interested in Computer Vision💻 and neuroscience🧠.  
 1st major Global Biomedical Engineering, 2nd major Computer science and engineering, Sungkyunkwan university (GPA: 4.25/4.5)
 
 ### Tech Stack
