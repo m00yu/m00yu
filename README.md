@@ -1,6 +1,6 @@
 ### Hi there 👋
 I’m an undergraduate student interested in Computer Vision💻 and neuroscience🧠.  
-1st major Global Biomedical Engineering, 2nd major Computer science and engineering, Sungkyunkwan university (GPA: 4.25/4.5)
+1st major Global Biomedical Engineering (GPA 4.25/4.5), 2nd major Computer science and engineering, Sungkyunkwan university GPA 4.5/4.5). 
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter_Note-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
