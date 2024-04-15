@@ -1,11 +1,35 @@
-### Hi there 👋
-I’m an undergraduate student interested in Computer Vision💻 and neuroscience🧠.  
-1st major Global Biomedical Engineering (GPA 4.25/4.5), 2nd major Computer science and engineering, Sungkyunkwan university GPA 4.5/4.5). 
+## Hi I'm Hyunsu Kim 🤗🤗🤗
+I appreciate collaborating with people from diverse backgrounds and am eager to learn new technologies.
 
-### Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter_Note-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+### 🎓 Education 
+- 1st major: Bachelor of Engineering in **Global Biomedical Engineering** | Sungkyunkwan University
+    - **GPA** : 4.25/4.5
+- 2nd major: Bachelor of Engineering in **Computer Science & Engineering** | Sungkyunkwan University
+    - **GPA** : 4.5/4.5
 
-### Contack
+### 💻 Work & Research Experiences 
+|           PERIOD            |                                                       ORGANIZATION                                                        |        ROLE        |        LOCATION       |
+|:-------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------:|:--------------------:|
+| 2023.12. ~  present  | [Visual and Scientific Computing Lab](https://silverbottlep.github.io/)  <br />(Advisor: Prof. Eunbyung Park)| Undergraduate Researcher  | Suwon, Korea |
+| 2023.01. ~ 2023.08.  | [Neurocle.Inc <br />](https://www.neuro-cle.com/) |   Deep Learning Researcher (Intern) |  Seoul, Korea |
+| 2021.01. ~ 2022.12  | [NeuRLab <br />](https://hrkimlab.github.io/)(Advisor: Prof. Hyunggoo Kim) | Undergraduate Researcher  | Suwon, Korea |
+
+### 📄 Publication 
+- Chest X-Ray Feature Pyramid Sum Model with Diseased Area Data Augmentation Method (ICCVw, 2023)
+
+### 📜 Patent 
+- Method and Apparatus for Diagnosing Disease from Chest X-ray Image (Inventor)
+  - Patent Application Number(출원번호): 10-2023-0146757
+
+### 🏅 Awards 
+-  SKT AI Fellowship - Best Performance Awards (최우수상)
+
+### 🧑🏼‍💻 Technical skills 
+- Machine Learning: Pytorch, Tensorflow, OpenCV, Scikit-Learn, NumPy, Pandas, etc
+- Programming Language: (Advanced) Python, (moderated) C, C++, Java
+
+
+### Contact Ⓜ️
 Feel free to contact me at hyunsu.kim517@gmail.com
 
 ### Github Stack
