@@ -3,7 +3,7 @@ I appreciate collaborating with people from diverse backgrounds and am eager to 
 
 ### 🎓 Education 
 - 1st major: Bachelor of Engineering in **Global Biomedical Engineering** | Sungkyunkwan University
-    - **GPA** : 4.25/4.5
+    - **GPA** : 4.27/4.5
 - 2nd major: Bachelor of Engineering in **Computer Science & Engineering** | Sungkyunkwan University
     - **GPA** : 4.5/4.5
 
