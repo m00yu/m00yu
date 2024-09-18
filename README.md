@@ -10,7 +10,7 @@ I appreciate collaborating with people from diverse backgrounds and am eager to 
 ### 💻 Work & Research Experiences 
 |           PERIOD            |                                                       ORGANIZATION                                                        |        ROLE        |        LOCATION       |
 |:-------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------:|:--------------------:|
-| 2024.07. ~ present  | [Hyundai Mobis <br />](https://www.mobis.co.kr/kr/index.do) |   Robot AI Researcher (Intern) |  Yongin, Korea |
+| 2024.07. ~ 2024.08.  | [Hyundai Mobis <br />](https://www.mobis.co.kr/kr/index.do) |   Robot AI Researcher (Intern) |  Yongin, Korea |
 | 2023.12. ~  present  | [Visual and Scientific Computing Lab](https://silverbottlep.github.io/)  <br />(Advisor: Prof. Eunbyung Park)| Undergraduate Researcher  | Suwon, Korea |
 | 2023.01. ~ 2023.08.  | [Neurocle.Inc <br />](https://www.neuro-cle.com/) |   Deep Learning Researcher (Intern) |  Seoul, Korea |
 | 2021.01. ~ 2022.12  | [NeuRLab <br />](https://hrkimlab.github.io/)(Advisor: Prof. Hyunggoo Kim) | Undergraduate Researcher  | Suwon, Korea |
