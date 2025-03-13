@@ -11,11 +11,13 @@ I appreciate collaborating with people from diverse backgrounds and am eager to 
 |           PERIOD            |                                                       ORGANIZATION                                                        |        ROLE        |        LOCATION       |
 |:-------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------:|:--------------------:|
 | 2024.07. ~ 2024.08.  | [Hyundai Mobis <br />](https://www.mobis.co.kr/kr/index.do) |   Robot AI Researcher (Intern) |  Yongin, Korea |
-| 2023.12. ~  present  | [Visual and Scientific Computing Lab](https://silverbottlep.github.io/)  <br />(Advisor: Prof. Eunbyung Park)| Undergraduate Researcher  | Suwon, Korea |
+| 2023.12. ~  2025.01  | [Visual and Scientific Computing Lab](https://silverbottlep.github.io/)  <br />(Advisor: Prof. Eunbyung Park)| Undergraduate Researcher  | Suwon, Korea |
 | 2023.01. ~ 2023.08.  | [Neurocle.Inc <br />](https://www.neuro-cle.com/) |   Deep Learning Researcher (Intern) |  Seoul, Korea |
 | 2021.01. ~ 2022.12  | [NeuRLab <br />](https://hrkimlab.github.io/)(Advisor: Prof. Hyunggoo Kim) | Undergraduate Researcher  | Suwon, Korea |
 
 ### 📄 Publication 
+- MetaFormer: High-fidelity Metalens Imaging via Aberration Correcting Transformers (ICCV, 2025, under review)
+- 3D LiDAR-Based Indoor and Outdoor Human Localization Using PointPillars (한국자동차공학회, 2024)
 - Chest X-Ray Feature Pyramid Sum Model with Diseased Area Data Augmentation Method (ICCVw, 2023)
 
 ### 📜 Patent 
@@ -23,6 +25,7 @@ I appreciate collaborating with people from diverse backgrounds and am eager to 
   - Patent Application Number(출원번호): 10-2023-0146757
 
 ### 🏅 Awards 
+-  2024 한국자동차공학회 추계학술대회 전문연구발표세션(성균관대) 대상
 -  SKT AI Fellowship - Best Performance Awards (최우수상)
 -  SKKU Autonomous Driving SW Competition - Bronze Awards (동상)
 
